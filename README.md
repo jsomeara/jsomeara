@@ -6,7 +6,7 @@
 ### 😊 Some of the projects I'm most proud of are:
 - **[Mr. Intern](https://mrintern.com/)**
 	- I am the co-founder and developer for Mr. Intern, a database of high school extracurricular opportunities.
-	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counselors
+	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counseling companies
 	- *[See Website](https://mrintern.com/)*
 	- Pending 501c3 status with **support from Bill and Melinda Gates Foundation Youth Division**
 - [**Skyhouse**](https://hypixel.net/threads/skyhouse-a-flipping-solution-by-skyblock-tools.4513560/)
