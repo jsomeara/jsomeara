@@ -9,7 +9,7 @@
 	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counselors
 	- Pending 501c3 status, currently **supported by Bill and Melinda Gates Foundation Youth Division**
 - [**Skyhouse**](https://hypixel.net/threads/skyhouse-a-flipping-solution-by-skyblock-tools.4513560/)
-	- My team and I collaboratively built a Minecraft mod and website to assist users with in-game auction flipping.
+	- I am the founder of Skyhouse, which my team and I collaboratively built as a Minecraft mod and website to assist users with in-game auction flipping.
   	- Built a discord community around this mod with **2,000+ members**
   	- Increased partner server's member count by **10,000+ members**
 	- Here's a *[tutorial video](https://www.youtube.com/watch?v=okG4TilWk50)* that an outside party made (not affiliated with our team)
