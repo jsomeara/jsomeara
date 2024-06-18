@@ -8,7 +8,7 @@
 	- I am the co-founder and developer for Mr. Intern, a database of high school extracurricular opportunities.
 	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counselors
 	- *[See Website](https://mrintern.com/)*
-	- Pending 501c3 status, currently **supported by Bill and Melinda Gates Foundation Youth Division**
+	- Pending 501c3 status, currently with **support from Bill and Melinda Gates Foundation Youth Division**
 - [**Skyhouse**](https://hypixel.net/threads/skyhouse-a-flipping-solution-by-skyblock-tools.4513560/)
 	- I am the founder of Skyhouse, which my team and I collaboratively built as a Minecraft mod and website to assist users with in-game auction flipping.
   	- Built a discord community around this mod with **2,000+ members**
