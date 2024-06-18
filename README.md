@@ -13,6 +13,7 @@
 - **[Mr. Intern](https://mrintern.com/)**
 	- I am the co-founder and developer for Mr. Intern, a database of high school extracurricular opportunities.
 	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counselors
+	- *[See Website](https://mrintern.com/)*
 	- Pending 501c3 status, currently **supported by Bill and Melinda Gates Foundation Youth Division**
 - **[BlackwellGPT](https://github.com/BlackwellGPT/Blackwell-GPT-App)**
 	- A friend and I developed an app that uses a cloud or on-device large language model (Llama 2) to increase the accessibility of basic medical information even in areas with limited internet connectivity.
