@@ -10,6 +10,7 @@
 	- Pending 501c3 status, currently **supported by Bill and Melinda Gates Foundation Youth Division**
 - [**Skyhouse**](https://hypixel.net/threads/skyhouse-a-flipping-solution-by-skyblock-tools.4513560/)
 	- My team and I collaboratively built a Minecraft mod and website to assist users with in-game auction flipping.
+  	- Built a community around this mod with 2,000+ members
 	- Here's a *[tutorial video](https://www.youtube.com/watch?v=okG4TilWk50)* that an outside party made (not affiliated with our team)
 	- Sold access to this service as a subscription, with **our revenue surpassing $5,000**.
 - **[BlackwellGPT](https://github.com/BlackwellGPT/Blackwell-GPT-App)**
