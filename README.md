@@ -6,10 +6,10 @@ Contact: hello@johnomeara.com
 
 ---
 ### 😊 Some of the projects I'm most proud of are:
-- **[Mr. Intern](https://mrintern.com/)**
-	- I am the co-founder and developer for Mr. Intern, a database of high school extracurricular opportunities.
+- **[extracurriculars.org](https://extracurriculars.org/)**
+	- I am the co-founder and developer for extracurriculars.org, a non-profit database of high school extracurricular opportunities.
 	- Empowers low-income students with opportunities that are often gatekept by expensive college admissions counseling companies
-	- *[See Website](https://mrintern.com/)*
+	- *[See Website](https://extracurriculars.org/)*
 	- **Site used by 2,000+ students globally.**
 - [**Skyhouse**](https://hypixel.net/threads/skyhouse-a-flipping-solution-by-skyblock-tools.4513560/)
 	- I am the founder of Skyhouse, which my team and I collaboratively built as a Minecraft mod and website to assist users with in-game auction flipping.
