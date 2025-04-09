@@ -1,5 +1,5 @@
 # 👋 I'm John O'Meara, a full stack developer.
-##### 📍 16 year old high schooler and entrepreneur from Seattle, WA
+##### 📍 16 year old high schooler from Seattle, WA
 ##### 🏃 I enjoy long-distance running and appreciating the outdoors with my friends
 ##### ⚖️ The two things I value the most are teamwork and inclusivity
 Contact: hello@johnomeara.com
